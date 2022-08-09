@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-**I am 15 year old. I am currently an aspiring medical student and a computer science enthusiast.**
+I am an aspiring medical student and a computer science enthusiast. I'm 15 years old and a Freshman in high school.
+
+### You can reach me here:
+
+- Discord: [rad](https://discord.gg/470677629087776786)
+- Email: [marioxradical@gmail.com](mailto:marioxradical@gmail.com)
+
+
 
 <!--
 **radicwl/radicwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
