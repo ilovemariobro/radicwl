@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am an aspiring medical student and a computer science enthusiast. I'm 15 years old and a Freshman in high school.
+I'm an aspiring medical student who also enjoys computer science. I'm a freshman in high school and 15 years old. 
 
 ### You can reach me here:
 
-- Discord: [rad](https://discord.gg/470677629087776786)
+- Discord: [rad#9999](https://discord.com/users/470677629087776786)
 - Email: [marioxradical@gmail.com](mailto:marioxradical@gmail.com)
 
 
