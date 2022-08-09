@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**I am 15 year old. I am currently an aspiring medical student and a computer science enthusiast.**
+
 <!--
 **radicwl/radicwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
