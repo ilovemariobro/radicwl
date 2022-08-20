@@ -1,10 +1,11 @@
 [![Social Banner](https://raw.githubusercontent.com/radicwl/radicwl/master/assets/heading-banner.png "Header")](https://radicwl.codes/)
-
 <p align='center'>
 <h1 align='center'> </h1>
 </p>
 
-<h1 align='center'>Hi there! :wave:</h1>
+<p align='center'>
+Hi there! :wave:
+</p>
 
 I'm a 15 year old aspiring medical student who also enjoys computer science.
 
