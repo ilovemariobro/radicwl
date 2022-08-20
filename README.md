@@ -4,7 +4,7 @@
 </p>
 
 <p align='center'>
-### Hi there! :wave:
+<h1>Hi there! :wave:</h1>
 </p>
 
 I'm a 15 year old aspiring medical student who also enjoys computer science.
