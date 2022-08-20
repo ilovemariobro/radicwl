@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm an aspiring medical student who also enjoys computer science. I'm a freshman in high school and 15 years old. 
+I'm a 15 year old aspiring medical student who also enjoys computer science.
 
 ### You can reach me here:
 
