@@ -1,4 +1,4 @@
-[![Social Banner](https://github.com/radicwl/radicwl/raw/master/assets/heading-banner.png)](https://radicwl.codes)
+[![Social Banner](https://github.com/radicwl/radicwl/assets/heading-banner.png)](https://radicwl.codes)
 
 ### Hi there 👋
 
