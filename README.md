@@ -1,3 +1,5 @@
+[![Social Banner](https://github.com/radicwl/radicwl/raw/master/assets/heading-banner.png)](https://radicwl.codes)
+
 ### Hi there 👋
 
 I'm an aspiring medical student who also enjoys computer science. I'm a freshman in high school and 15 years old. 
