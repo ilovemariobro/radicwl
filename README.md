@@ -1,7 +1,8 @@
 [![Social Banner](https://raw.githubusercontent.com/radicwl/radicwl/master/assets/heading-banner.png "Header")](https://radicwl.codes/)
 
+<p align='center'>
 ### Hi there 👋
-
+</p>
 I'm a 15 year old aspiring medical student who also enjoys computer science.
 
 ### You can reach me here:
