@@ -3,7 +3,6 @@
 <p align='center'>
   
 </p>
-<h1 align='center'> Hi there! :wave:</h1>
 
 I'm a 15 year old aspiring medical student who also enjoys computer science.
 
