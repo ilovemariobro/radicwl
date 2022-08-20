@@ -3,9 +3,8 @@
 <h1 align='center'> </h1>
 </p>
 
-<p align='center'>
-Hi there! :wave:
-</p>
+### Hi there! :wave:
+
 
 I'm a 15 year old aspiring medical student who also enjoys computer science.
 
