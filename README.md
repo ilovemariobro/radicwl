@@ -5,7 +5,7 @@ I'm an aspiring medical student who also enjoys computer science. I'm a freshman
 ### You can reach me here:
 
 - Discord: [rad#9999](https://discord.com/users/470677629087776786)
-- Email: [mario@radicwl.codes](mailto:mario@radicwl.codes)
+- Email: [marioxradical@gmail.com](mailto:marioxradical@gmail.com)
 
 
 
