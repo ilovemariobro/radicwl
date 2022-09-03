@@ -6,7 +6,7 @@
 ### Hi there! :wave:
 
 
-I'm a 15 year old aspiring medical student who also enjoys computer science.
+I'm a 15 year old aspiring nursing student who also enjoys computer science.
 
 ### You can reach me here:
 
