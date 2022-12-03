@@ -1,7 +1,3 @@
-[![Social Banner](https://raw.githubusercontent.com/radicwl/radicwl/master/assets/heading-banner.png "Header")](https://radicwl.codes/)
-<p align='center'>
-<h1 align='center'> </h1>
-</p>
 
 ### Hi there! :wave:
 
