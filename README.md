@@ -6,7 +6,6 @@ I'm a 15 year old aspiring nursing student who also enjoys computer science.
 
 ### You can reach me here:
 
-- Discord: [rad#1000](https://discord.com/users/470677629087776786)
 - Email: [marioxradical@gmail.com](mailto:marioxradical@gmail.com)
 
 
